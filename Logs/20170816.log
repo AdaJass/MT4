@@ -1,0 +1,28 @@
+0	17:43:57.345	Custom indicator Ratio US30,Weekly: loaded successfully
+0	17:44:11.073	Ratio US30,Weekly: initialized
+0	17:44:15.171	Ratio US30,Weekly: uninit reason 3
+0	17:44:15.201	Ratio US30,Daily: initialized
+0	17:44:22.065	Custom indicator Ratio US30,Daily: loaded successfully
+0	17:44:24.559	Custom indicator Ratio US30,Daily: removed
+0	17:44:48.114	Ratio US30,Daily: uninit reason 2
+0	17:44:48.122	Custom indicator Ratio US30,Daily: removed
+0	17:44:48.181	Custom indicator Ratio US30,Daily: loaded successfully
+0	17:44:48.230	Ratio US30,Daily: initialized
+0	17:44:57.915	Custom indicator Ratio USDCHF,H1: loaded successfully
+0	17:45:01.197	Custom indicator Ratio USDCHF,H1: removed
+0	17:45:07.010	Ratio US30,Daily: uninit reason 1
+0	17:45:07.015	Custom indicator Ratio US30,Daily: removed
+0	17:45:09.685	Custom indicator Ratio US30,Daily: loaded successfully
+0	17:45:11.733	Ratio US30,Daily: initialized
+0	17:47:10.361	Ratio US30,Daily: uninit reason 5
+0	17:47:10.443	Ratio US30,Daily: initialized
+1	17:47:10.467	Ratio US30,Daily: array out of range in 'Ratio.mq4' (96,39)
+0	17:49:58.901	Ratio US30,Daily: uninit reason 5
+0	17:49:58.984	Ratio US30,Daily: initialized
+1	17:49:59.023	Ratio US30,Daily: array out of range in 'Ratio.mq4' (96,39)
+0	17:57:16.563	Ratio US30,Daily: uninit reason 5
+0	17:57:16.634	Ratio US30,Daily: initialized
+1	17:57:16.662	Ratio US30,Daily: array out of range in 'Ratio.mq4' (96,39)
+0	18:16:34.101	Ratio US30,Daily: uninit reason 5
+0	18:16:34.172	Ratio US30,Daily: initialized
+1	18:16:34.268	Ratio US30,Daily: array out of range in 'Ratio.mq4' (96,39)
