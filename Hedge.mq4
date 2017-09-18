@@ -114,11 +114,11 @@ void OnTick()
       if(OrderSymbol()!=Symbol())
          continue;
          
-      if(OrderType()==OP_BUY){        
+      if(OrderType()==OP_BUY&&Direction){        
          orderLot+=OrderLots();
       }                                        
-      if(OrderType()==OP_SELL){
-         orderLot-=OrderLots();
+      if(OrderType()==OP_SELL&&!Direction){
+         orderLot+=OrderLots();
       }                 
    }
    orderLot = MathAbs(orderLot);
